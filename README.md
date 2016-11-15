@@ -1,2 +1,1 @@
-# bukkit-speediskeyplugin
-Speed Is Key Plugin
+# Speed Is Key
